@@ -7,3 +7,8 @@ Quora is a place to gain and share knowledge—about anything. It’s a platform
 2)This could be useful to instantly provide answers to questions that have already been answered.
 
 3)We are tasked with predicting whether a pair of questions are duplicates or not.
+
+# Type of problem
+It is a binary classification problem, for a given pair of questions we need to predict if they are duplicate or not.
+
+In this we have used some Machine Learning Algorithms which suits to the Business Latency requirements and did perform modelling . 
